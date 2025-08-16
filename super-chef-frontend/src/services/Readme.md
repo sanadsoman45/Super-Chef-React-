@@ -1,0 +1,1 @@
+The services folder should hold all API call functions. There are many ways to go about this too. In the services folder, you can have an index.ts where you configure your axios instance and export all other services.

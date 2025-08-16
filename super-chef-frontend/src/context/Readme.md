@@ -1,0 +1,1 @@
+folder to store context api data to be shared across components of an React application.

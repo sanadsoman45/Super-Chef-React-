@@ -1,0 +1,1 @@
+ This option only applies to my Typescript lovers, a folder to keep all your types and interfaces. I would recommend having types separated from your components as it reduces complexity in the code and really makes your work easy when writing tests

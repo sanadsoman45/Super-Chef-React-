@@ -1,0 +1,1 @@
+The store folder is going to hold you guessed it, global state management files. Now you could be using redux, zustand or reactn it doesn’t matter, the store can hold all this for you. (picture below is using zustand)

@@ -1,0 +1,1 @@
+We can’t talk about folder structure without the router folder. Used for routing. I am only going to show the folder structure for routing and wouldn’t go deeper into this but I will share a GitHub repository at the end of the article to show you how to get it all connected. We could have all router-related configurations in this folder.
