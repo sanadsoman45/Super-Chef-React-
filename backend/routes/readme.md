@@ -1,1 +1,0 @@
-folder to group routes for a feature api.

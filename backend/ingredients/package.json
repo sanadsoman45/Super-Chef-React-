@@ -1,0 +1,22 @@
+{
+  "name": "ingredients",
+  "version": "1.0.0",
+  "description": "Microservice for ingredients",
+  "license": "ISC",
+  "author": "sanad soman",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "morgan": "^1.10.0",
+    "mssql": "^11.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
